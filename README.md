@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rounaksh&label=Profile%20views&color=0e75b6&style=flat" alt="rounaksh" /> </p>
 
-- 🔭 I’m currently working on **Movie booking app**
+- 🔭 I’m currently working on **Internship with codeSoft**
 
-- 🌱 I’m currently learning **Full-stack Development from upgrad.**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available [I can share links to my works.](I can share links to my works.)
 
