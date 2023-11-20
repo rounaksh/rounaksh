@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available [I can share links to my works.](I can share links to my works.)
+- 👨‍💻 All of my projects are available, I can share links to my works.
 
 - 📝 I regularly read articles on [front-end development](front-end development)
 
