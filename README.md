@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **rounak.0734@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FQ69HRXI6VV3_ehGgaDRdM-wKakg3uk3/view?usp=sharing](https://drive.google.com/file/d/1FQ69HRXI6VV3_ehGgaDRdM-wKakg3uk3/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17nFyuznLCMuaIO1bWXQXGfjf4Mew-j4S/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
