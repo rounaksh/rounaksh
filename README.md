@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rounaksh&label=Profile%20views&color=0e75b6&style=flat" alt="rounaksh" /> </p>
 
-- 🔭 I’m currently working on **Internship with codSoft**
+- 🔭 I’m currently working as Web Developer at **Drishya Production**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Framer Motion**
 
 - 👨‍💻 All of my projects are available, I can share links to my works.
 
